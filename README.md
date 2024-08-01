@@ -7,5 +7,7 @@ This project is a Swift-based application that allows users to explore, order, a
 Prerequisites
 
 Xcode (latest version recommended)
+
 macOS (latest version recommended)
+
 Basic knowledge of Swift and iOS development
